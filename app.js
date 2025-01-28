@@ -66,7 +66,7 @@ function reiniciarJogo() {
 }
 
 
-
+// luskinha é gueeeeeeei
 
 
 
